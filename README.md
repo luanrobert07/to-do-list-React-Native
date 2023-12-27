@@ -34,16 +34,11 @@ O layout da aplicação está disponível no Figma:
 
 ## 🚀 Como executar o projeto
 
-### Pré-requisitos
-
-Antes de começar, você vai precisar ter instalado em sua máquina as seguintes ferramentas:
-[Git](https://git-scm.com), [Node.js](https://nodejs.org/en/). 
-Além disto é bom ter um editor para trabalhar com o código como [VSCode](https://code.visualstudio.com/)
-
 ```bash
 
 # Clone este repositório
 $ git clone https://github.com/luanrobert07/to-do-list-React-Native.git
+
 # Instale as dependências
 $ npm install
 
